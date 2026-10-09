@@ -1,2 +1,2 @@
-# Portfolio
-A portfolio page made using Java and spring 
+# Spotstats
+An spring webapp that uses the Spotify api to get the user stats, still in initial stages
